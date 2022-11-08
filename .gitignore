@@ -3,3 +3,6 @@
 swift-format.xcodeproj/
 Package.resolved
 
+.vscode/
+.DS_Store
+swift-format-darwin-universal.zip
